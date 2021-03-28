@@ -20,17 +20,7 @@ namespace RFC_SAP_Interface
         {
             if ("SE37".Equals(destinationName))
             {
-                //RfcConfigParameters parms = new RfcConfigParameters();
-                //parms.Add(RfcConfigParameters.AppServerHost, "10.8.18.57");
-                //parms.Add(RfcConfigParameters.SystemNumber, "00");
-                //parms.Add(RfcConfigParameters.SystemID, "S4D");
-                //parms.Add(RfcConfigParameters.User, "EC_HUSNUL");
-                //parms.Add(RfcConfigParameters.Password, "ab123456");
-                //parms.Add(RfcConfigParameters.Client, "200");
-                //parms.Add(RfcConfigParameters.Language, "EN");
-                //parms.Add(RfcConfigParameters.Name, "SE37");
-                //parms.Add(RfcConfigParameters.ConnectionIdleTimeout, "600");
-                //parms.Add(RfcConfigParameters.PoolSize, "10");
+                
 
                 RfcConfigParameters parms = new RfcConfigParameters();
                 parms.Add(RfcConfigParameters.AppServerHost, "");
