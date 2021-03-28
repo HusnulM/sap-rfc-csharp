@@ -1,0 +1,14 @@
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\bin\Debug\RFC_SAP_Interface.exe.config
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\bin\Debug\RFC_SAP_Interface.exe
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\bin\Debug\RFC_SAP_Interface.pdb
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\bin\Debug\sapnco.dll
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\bin\Debug\sapnco_utils.dll
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.Form1.resources
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.frmCreateNotif.resources
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.frmMain.resources
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.Properties.Resources.resources
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.csproj.GenerateResource.Cache
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.exe
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.pdb
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.frmCLoseNotif.resources
+C:\Users\Husnul-M\Documents\Visual Studio 2015\Projects\RFC_SAP_Interface\RFC_SAP_Interface\obj\Debug\RFC_SAP_Interface.frmConfirmOrder.resources
